@@ -44,7 +44,7 @@ function draw() {
   }
 
   if (somacor < 606060) {
-   fill('WHITE');
+   fill('ORANGE');
    text('Show me the light', width / 2, height / 1.1);
 
   }
